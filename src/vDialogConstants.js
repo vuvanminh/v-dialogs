@@ -60,7 +60,17 @@ const languages = {
         btnOk : '確認',
         btnCancel : 'キャンセル',
         maskText : 'データロード……'
-    }
+    },
+    vi: {
+        titleInfo : 'Chi tiết',
+        titleWarning : 'Chú ý',
+        titleError : 'Lỗi',
+        titleSuccess : 'Thành công',
+        titleConfirm : 'Xác nhận',
+        btnOk : 'OK',
+        btnCancel : 'Bỏ qua',
+        maskText : 'Đang tải…'
+    },
 };
 
 const dialogDefaults = {
@@ -152,7 +162,7 @@ const dialogDefaults = {
      * @enum en
      * @enum jp
      */
-    language: 'cn',
+    language: 'vi',
     i18n: {},
     returnData: undefined,
     /**

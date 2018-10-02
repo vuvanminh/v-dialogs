@@ -16,11 +16,11 @@
     "vuejs",
     "dialog",
     "alert",
-	"mask",
-	"toast",
+    "mask",
+    "toast",
     "modal",
     "vue-modal",
-	"vue-dialog"
+    "vue-dialog"
   ],
   "repository": {
     "type": "git",
